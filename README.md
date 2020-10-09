@@ -15,7 +15,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Sarah github stats](https://github-readme-stats.vercel.app/api?username=sarah-rfs&show_icons=true&theme=tokyonight)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sarah-rfs&layout=tokyonight)](https://github.com/sarah-rfs/github-readme-stats)
-
+<center>
+    <table align="center">
+      <tr>
+          <td>
+              <img width="440px" align="center" src="https://github-readme-stats.vercel.app/api?username=sarah-rfs&show_icons=true&theme=tokyonight" />
+          </td>
+          <td>
+              <img width="400px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarah-rfs&show_icons=true&theme=tokyonight" />               </td>
+      </tr>  
+    </table>
+</center>
