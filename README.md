@@ -15,4 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Sarah's github stats](https://github-readme-stats.vercel.app/api?username=sarah-rfs&show_icons=true&theme=tokyonight)
+![Sarah github stats](https://github-readme-stats.vercel.app/api?username=sarah-rfs&show_icons=true&theme=tokyonight)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sarah-rfs)](https://github-readme-stats.vercel.app/api?username=sarah-rfs&show_icons=true&theme=tokyonight)
