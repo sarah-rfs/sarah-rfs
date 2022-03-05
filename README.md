@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/-sarahrodrigues/" target="blank"><img align="center" src="https://img.icons8.com/external-justicon-lineal-justicon/50/000000/external-linkedin-social-media-justicon-lineal-justicon.png" alt="https://www.linkedin.com/in/-sarahrodrigues/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/-sarahrodrigues/" target="blank"><img align="center" src="https://img.icons8.com/external-justicon-lineal-color-justicon/64/000000/external-linkedin-social-media-justicon-lineal-color-justicon.png" alt="https://www.linkedin.com/in/-sarahrodrigues/" height="30" width="40" /></a>
 </p>
 
 
