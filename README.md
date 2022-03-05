@@ -26,3 +26,8 @@ Here are some ideas to get you started:
       </tr>  
     </table>
 </center>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/-sarahrodrigues/" target="blank"><img align="center" src="https://icons8.com/icon/kLCSJQ88uNkb/linkedin" alt="https://www.linkedin.com/in/-sarahrodrigues/" height="30" width="40" /></a>
+</p>
