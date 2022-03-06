@@ -32,4 +32,4 @@ Here are some ideas to get you started:
 <a href="https://www.linkedin.com/in/-sarahrodrigues/" target="_blank"><img align="center" src="https://img.icons8.com/external-justicon-lineal-color-justicon/64/000000/external-linkedin-social-media-justicon-lineal-color-justicon.png" alt="https://www.linkedin.com/in/-sarahrodrigues/"/></a>
 </p>
 
-
+![snake gif](https://github.com/sarah-rfs/sarah-rfs/blob/output/github-contribution-grid-snake.gif)
